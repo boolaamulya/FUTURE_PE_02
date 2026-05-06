@@ -3,7 +3,7 @@
 ## AI Content Marketing using UGC Ads
 
 ### Student Name
-Boola Teja
+Boola Amulya 
 
 ### Repository Name
 FUTURE_PE_02
